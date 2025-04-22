@@ -1,4 +1,4 @@
-# 📩 MysteryMessage
+# 📩 MysteryMessage - Anonymous feedback application
 
 MysteryMessage is a fun and anonymous messaging web application built with **Next.js**. The main idea is to let users create unique message links that others can open to read secret messages — anonymously and privately. This was created as part of a learning journey to master **Next.js** and understand key concepts like SSR, API routes, dynamic routing, and deployment.
 
@@ -65,11 +65,14 @@ Visit `http://localhost:3000` to start using the app.
 
 ---
 
-## 🖼 Screenshots (Optional)
+## 🖼 Screenshots
 
 ![image](https://github.com/user-attachments/assets/0337082c-29ca-4f81-a6c8-46a7946d5103)
+
 ![image](https://github.com/user-attachments/assets/294e2908-c527-42c4-baea-fdf741cf5d41)
+
 ![image](https://github.com/user-attachments/assets/c646e46d-afeb-438e-b619-25f30194c9f3)
+
 ![image](https://github.com/user-attachments/assets/70cf7447-6c28-4f7f-b8d5-ab19762dde0e)
 
 
