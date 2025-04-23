@@ -67,6 +67,11 @@ Visit `http://localhost:3000` to start using the app.
 
 ## 🖼 Screenshots
 
+![image](https://github.com/user-attachments/assets/f5332c46-54f6-4d13-ba56-be9202052133)
+
+![image](https://github.com/user-attachments/assets/85041113-4e93-4e44-9f06-2a5627c4f154)
+
+
 ![image](https://github.com/user-attachments/assets/0337082c-29ca-4f81-a6c8-46a7946d5103)
 
 ![image](https://github.com/user-attachments/assets/294e2908-c527-42c4-baea-fdf741cf5d41)
